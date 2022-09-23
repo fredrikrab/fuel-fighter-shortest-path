@@ -1,0 +1,8 @@
+dwave-networkx
+ipykernel
+matplotlib
+networkx
+numpy
+python-tsp
+tabulate
+tsp-solver2
